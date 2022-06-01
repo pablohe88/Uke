@@ -1,0 +1,130 @@
+body {
+  background-image:url(fondo-web-nexun.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(216, 208, 208);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: a arang;
+    font-style: italic;
+    text-shadow: rgb(224, 220, 220);
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+  
+video {
+    width: 40%;
+    height: auto;
+    margin: 1%;
+    padding: 1%;
+  
+    }
+
+  h1{
+    color: rgb(255, 255, 255);
+    font-family:a arang;
+    font-size: 600%;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 5px 5px rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+    margin: 0%;
+    padding: 0%;
+    background-image: url(Fondo.png);
+    background-size: cover;
+    
+  }
+  h2{
+    color:rgb(255, 255, 255);
+    font-size:0,1cm;
+    font-family:Candara;
+    text-shadow: #111;
+    text-align: left;
+  }
+
+  aside{
+  
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: rgb(118, 84, 134);
+    font-family: Candara;
+    color: black;
+    position:-webkit-sticky;
+    border-style: groove;
+    
+  }
+
+
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-family: sans-serif;
+    font-style: italic;
+    background-color: rgb(209, 201, 201);
+    opacity:0,3;
+    table-layout: auto;
+  }
+h5{
+  font-family: Candara;
+  color: rgb(255, 255, 255);
+  font-size: 110%;
+  border-style: inset;
+  background-color: black;
+  opacity: 0.8;
+}
+img{
+  size: 2cm;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(197, 197, 197);
+  opacity: 0,9;
+  color: rgb(0, 0, 0);
+  font-family: Candara;
+}
+table, td, th {
+  border: 2px solid;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #111;
+  opacity: 0,6;
+  font-family: Candara;
+  font-size: xx-large;
+  color:aliceblue
+}
+h6{ 
+  font-family: Candara;
+  color: white;
+  font-size: 200%;
+
+}
